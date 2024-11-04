@@ -1,0 +1,18 @@
+{
+  "appiumUrl": "http://localhost:4723",
+  "platform": "android",
+    "android": {
+      "platformName": "Android",
+      "deviceName": "emulator-5554r",
+      "app": "C:\\Users\\CEMPC\\Desktop\\cemacartest\\app\\ApiDemos.apk",
+      "platformVersion": "11.0",
+      "automationName" : "UiAutomator2",
+      "appPackage" : "io.appium.android.apis"
+    },
+    "ios": {
+      "platformName": "iOS",
+      "deviceName": "iPhone Simulator",
+      "app": "path/to/ios/app.app",
+      "platformVersion": "15.0"
+    }
+}
