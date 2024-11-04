@@ -22,6 +22,5 @@ public class Hook {
     @After
     public void tearDown() {
         BaseTest.quitDriver(); // Driver'ı kapat
-        System.out.println("Driver kapatıldı.");
     }
 }
