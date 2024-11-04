@@ -6,7 +6,7 @@ For a visual demonstration of this test case, please refer to the example video 
 
 [![Example Video for Test Case](https://img.youtube.com/vi/xbmC4IyqBkk/0.jpg)](https://www.youtube.com/watch?v=xbmC4IyqBkk)
 
-You can click on the image or follow [this link](https://www.youtube.com/watch?v=xbmC4IyqBkk) to watch the example video on YouTube.
+You can click on the image or follow [this link](https://www.youtube.com/watch?v=3wPyg5HPzRc) to watch the example video on YouTube.
 ## Table of Contents
 
 1. [Requirements](#requirements)
